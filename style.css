@@ -1,0 +1,117 @@
+body {
+    line-height: 2em;
+    color: #777;
+    background: url("http://4.bp.blogspot.com/-BRrGlvjClSk/VCwIZ5qN87I/AAAAAAAAGK8/WNxLfjMiP-Q/s1600/Concrete%2Bwall%2Bsmooth%2Bwhite%2Bgrunge%2Bseamless%2Btexture%2B2048x2048.jpg");
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 18px;
+}
+
+/* Navbar */
+
+.nav {
+    margin: 0 0 30px;
+    background: #fff;;
+    color: #777;
+    margin-right: 205px;
+    margin-left: 205px;
+}
+
+a {
+    color: #777;
+    line-height: 60px;
+}
+
+.main-name {
+    font-size: 30px;
+    width: 250px;
+    height: 80px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: 300;
+    background: #4aaaa5;
+    text-align: center;
+    color: white;
+    line-height: 60px;
+   
+}
+
+/* About Me */
+
+.container {
+    background: white;
+    border-style: solid;
+    border-width: 1px;
+    border-color: grey;
+    text-align: left;
+    max-width: 960px;
+    clear: both;
+}
+
+h2 {
+    color: #4aaaa5;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    padding-top: 10px;
+}
+
+.img-responsive {
+    width: 200px;
+    height: 200px;
+}
+
+.paraOne {
+    right: 30px;
+}
+
+.rowOne {
+    margin-bottom: 10px;
+}
+
+/* Portfolio Page */
+
+.container-portfolio {
+    background: white;
+    border-style: solid;
+    border-width: 1px;
+    border-color: grey;
+    max-width: 50%;
+    margin-left: 15%;
+    margin-right: 10%;
+}
+
+.portfolio {
+    margin-bottom: 10px;
+    margin-left: 30px;
+}
+
+.image {
+    margin-bottom: 10px;
+    margin-left: 30px;
+}
+
+.portfolio-nav {
+    background: #fff;;
+    color: #777;
+    margin-right: 205px;
+    margin-left: 205px;
+}
+
+a {
+    color: #777;
+    line-height: 60px;
+}
+
+.portfolio-name {
+    font-size: 30px;
+    width: 250px;
+    height: 80px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: 300;
+    background: #4aaaa5;
+    text-align: center;
+    color: white;
+    line-height: 70px;
+   
+}
+
+/* Contact */
+
+
